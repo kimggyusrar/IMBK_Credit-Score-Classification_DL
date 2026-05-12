@@ -1,4 +1,4 @@
-<img width="1487" height="990" alt="image" src="https://github.com/user-attachments/assets/d095ba5a-9798-4974-91c3-eb6590b5ecf3" /># 프로젝트명 : 신용 점수 분류 DL 분석
+# 프로젝트명 : 신용점수 분류 DL 인사이트 분석 
 
 ---
 ## period : 2026.05.12 
